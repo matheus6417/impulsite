@@ -2240,8 +2240,8 @@ ul {
   margin-bottom: 0px;
   padding-top: 90px;
   padding-bottom: 120px;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5972027a16fa78631ce6cba9_bg_why.work_white.cover.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5971fc3b24901c6aee5bebee_art_why_stars_colorful.svg"), -webkit-linear-gradient(270deg, #fff, #edf3f9 57%, #dfe9f3);
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5972027a16fa78631ce6cba9_bg_why.work_white.cover.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5971fc3b24901c6aee5bebee_art_why_stars_colorful.svg"), linear-gradient(180deg, #fff, #edf3f9 57%, #dfe9f3);
+  background-image: url("5972027a16fa78631ce6cba9_bg_why.work_white.cover.svg"), url("5971fc3b24901c6aee5bebee_art_why_stars_colorful.svg"), -webkit-linear-gradient(270deg, #fff, #edf3f9 57%, #dfe9f3);
+  background-image: url("5972027a16fa78631ce6cba9_bg_why.work_white.cover.svg"), url("5971fc3b24901c6aee5bebee_art_why_stars_colorful.svg"), linear-gradient(180deg, #fff, #edf3f9 57%, #dfe9f3);
   background-position: 50% 100%, 50% 0px, 0px 0px;
   background-size: auto, auto, auto;
   background-repeat: no-repeat, no-repeat, repeat;
@@ -2253,8 +2253,6 @@ ul {
     margin-bottom: 0px;
     padding-top: 60px;
     padding-bottom: 120px;
-    background-image: url(http://uploads.webflow.com/596617d…/5971ee2…_bg_white.overlay_its.really.smart.svg), url(http://uploads.webflow.com/596617d…/5971f08…_art_astronaut.thinking%403x.svg), -webkit-linear-gradient(270deg, hsla(0, 0%, 100%, 0), rgba(244, 247, 251, 0) 40%, rgba(237, 243, 249, .52) 70%, #dfe9f3), url(http://uploads.webflow.com/596617d…/5971f13…_art_stars.reallysmart_colorful.svg), url(http://uploads.webflow.com/596617d…/5971edb…_art_smart.waves_dynamic%403x.svg);
-    background-image: url(http://uploads.webflow.com/596617d…/5971ee2…_bg_white.overlay_its.really.smart.svg), url(http://uploads.webflow.com/596617d…/5971f08…_art_astronaut.thinking%403x.svg), linear-gradient(180deg, hsla(0, 0%, 100%, 0), rgba(244, 247, 251, 0) 40%, rgba(237, 243, 249, .52) 70%, #dfe9f3), url(http://uploads.webflow.com/596617d…/5971f13…_art_stars.reallysmart_colorful.svg), url(http://uploads.webflow.com/596617d…/5971edb…_art_smart.waves_dynamic%403x.svg);
     background-position: 50% 100%, 53% 100%, 0px 0px, 50% 50%, 50% 100%;
     background-size: auto, auto, auto, auto, auto;
     background-repeat: no-repeat, no-repeat, repeat, no-repeat, no-repeat;
@@ -2543,28 +2541,28 @@ ul {
 
 .portfolio__slider-slide.portfolio__slider-slide--1 {
   position: relative;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5968b5bc60a737091d9e4a25_portfolio.04_mini.jpg");
+  background-image: url("5968b5bc60a737091d9e4a25_portfolio.04_mini.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .portfolio__slider-slide.portfolio__slider-slide--2 {
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5968b5bc31b04477d5ab5c24_portfolio.03_mini.jpg");
+  background-image: url("5968b5bc31b04477d5ab5c24_portfolio.03_mini.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .portfolio__slider-slide.portfolio__slider-slide--3 {
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5968b5bc60a737091d9e4a26_portfolio.01_mini.jpg");
+  background-image: url("5968b5bc60a737091d9e4a26_portfolio.01_mini.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .portfolio__slider-slide.portfolio__slider-slide--4 {
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5968b5bcbe3971500fd71db9_portfolio.02_mini.jpg");
+  background-image: url("5968b5bcbe3971500fd71db9_portfolio.02_mini.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2579,7 +2577,7 @@ ul {
   z-index: 2;
   display: block;
   width: 100%;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5968c4306221834fac57d1d4_art_overlay.shape_dynamic.png");
+  background-image: url("5968c4306221834fac57d1d4_art_overlay.shape_dynamic.png");
   background-position: 50% 100%;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -2590,7 +2588,7 @@ ul {
   margin-right: auto;
   margin-bottom: 120px;
   margin-left: auto;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5971fb687a605b55754bf0b8_art_stars.works.devices_colorful.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/59720970bf022f64fa1bef8f_bg_works.on.any.device.test.svg");
+  background-image: url("5971fb687a605b55754bf0b8_art_stars.works.devices_colorful.svg"), url("59720970bf022f64fa1bef8f_bg_works.on.any.device.test.svg");
   background-position: 50% 0px, 50% 0px;
   background-repeat: no-repeat, no-repeat;
 }
@@ -2696,21 +2694,21 @@ ul {
 }
 
 .devices__slider-slide.devices__slider-slide--1 {
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5968f2c3e56b44588fa3ed22_device.01.png");
+  background-image: url("5968f2c3e56b44588fa3ed22_device.01.png");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .devices__slider-slide.devices__slider-slide--2 {
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5968f2c31fc44b11f555e09d_device.02.png");
+  background-image: url("5968f2c31fc44b11f555e09d_device.02.png");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .devices__slider-slide.devices__slider-slide--3 {
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5968f2c31fc44b11f555e09e_device.03.png");
+  background-image: url("5968f2c31fc44b11f555e09e_device.03.png");
   background-position: 0px 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2731,8 +2729,8 @@ ul {
 .smart {
   position: relative;
   margin-bottom: 100px;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5971ee2624901c6aee5be30c_bg_white.overlay_its.really.smart.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5971f084d8f0cc64971b612c_art_astronaut.thinking%403x.svg"), -webkit-linear-gradient(270deg, hsla(0, 0%, 100%, 0), rgba(244, 247, 251, 0) 40%, rgba(237, 243, 249, .52) 70%, #dfe9f3), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5971f136c27c32637f911daa_art_stars.reallysmart_colorful.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5971edbd24901c6aee5be2f7_art_smart.waves_dynamic%403x.svg");
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5971ee2624901c6aee5be30c_bg_white.overlay_its.really.smart.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5971f084d8f0cc64971b612c_art_astronaut.thinking%403x.svg"), linear-gradient(180deg, hsla(0, 0%, 100%, 0), rgba(244, 247, 251, 0) 40%, rgba(237, 243, 249, .52) 70%, #dfe9f3), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5971f136c27c32637f911daa_art_stars.reallysmart_colorful.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5971edbd24901c6aee5be2f7_art_smart.waves_dynamic%403x.svg");
+  background-image: url("5971ee2624901c6aee5be30c_bg_white.overlay_its.really.smart.svg"), url("5971f084d8f0cc64971b612c_art_astronaut.thinking%403x.svg"), -webkit-linear-gradient(270deg, hsla(0, 0%, 100%, 0), rgba(244, 247, 251, 0) 40%, rgba(237, 243, 249, .52) 70%, #dfe9f3), url("5971f136c27c32637f911daa_art_stars.reallysmart_colorful.svg"), url("5971edbd24901c6aee5be2f7_art_smart.waves_dynamic%403x.svg");
+  background-image: url("5971ee2624901c6aee5be30c_bg_white.overlay_its.really.smart.svg"), url("5971f084d8f0cc64971b612c_art_astronaut.thinking%403x.svg"), linear-gradient(180deg, hsla(0, 0%, 100%, 0), rgba(244, 247, 251, 0) 40%, rgba(237, 243, 249, .52) 70%, #dfe9f3), url("5971f136c27c32637f911daa_art_stars.reallysmart_colorful.svg"), url("5971edbd24901c6aee5be2f7_art_smart.waves_dynamic%403x.svg");
   background-position: 50% 100%, 53% 100%, 0px 0px, 50% 50%, 50% 100%;
   background-size: auto, auto, auto, auto, auto;
   background-repeat: no-repeat, no-repeat, repeat, no-repeat, no-repeat;
@@ -3004,7 +3002,7 @@ ul {
   -webkit-align-items: stretch;
   -ms-flex-align: stretch;
   align-items: stretch;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/597222efc27c32637f912c33_bg_features.svg");
+  background-image: url("597222efc27c32637f912c33_bg_features.svg");
   background-position: 50% 100%;
   background-repeat: no-repeat;
 }
@@ -3046,7 +3044,7 @@ ul {
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/596c8177a7e82d1205764171_art_clipboard.svg");
+  background-image: url("596c8177a7e82d1205764171_art_clipboard.svg");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -3091,8 +3089,8 @@ ul {
   height: 42px;
   margin-right: 20px;
   border-radius: 42px;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/599b066de4afd5000156cad3_art_check.mark.svg"), -webkit-linear-gradient(270deg, #1dbcbc, #1dbcbc);
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/599b066de4afd5000156cad3_art_check.mark.svg"), linear-gradient(180deg, #1dbcbc, #1dbcbc);
+  background-image: url("599b066de4afd5000156cad3_art_check.mark.svg"), -webkit-linear-gradient(270deg, #1dbcbc, #1dbcbc);
+  background-image: url("599b066de4afd5000156cad3_art_check.mark.svg"), linear-gradient(180deg, #1dbcbc, #1dbcbc);
   background-position: 50% 50%, 0px 0px;
   background-size: 20px, auto;
   background-repeat: no-repeat, repeat;
@@ -3205,7 +3203,7 @@ ul {
   bottom: 0px;
   z-index: 1;
   display: block;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/596f72a259f5b2601afa16fc_art_rocket.dust.clouds_white.svg");
+  background-image: url("596f72a259f5b2601afa16fc_art_rocket.dust.clouds_white.svg");
   background-position: 50% 100%;
   background-size: auto;
   background-repeat: no-repeat;
@@ -3221,7 +3219,7 @@ ul {
   width: 25%;
   height: 690px;
   min-width: 300px;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/59832bb675d7ef00014f3754_art_intro.rocket.svg");
+  background-image: url("59832bb675d7ef00014f3754_art_intro.rocket.svg");
   background-position: 0px 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -3295,7 +3293,7 @@ ul {
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979ea538ce136000122065f_bg_30days.mobile.long.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979bb51b7a6900001b8a8e5_art_color.stars.wave.svg");
+  background-image: url("5979ea538ce136000122065f_bg_30days.mobile.long.svg"), url("5979bb51b7a6900001b8a8e5_art_color.stars.wave.svg");
   background-position: 50% 0px, 50% 0px;
   background-repeat: no-repeat, no-repeat;
 }
@@ -3333,7 +3331,7 @@ ul {
   -webkit-flex: 0 0 33.33%;
   -ms-flex: 0 0 33.33%;
   flex: 0 0 33.33%;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979bcb140a74f0001027189_art_what.makes_space.rocket.svg");
+  background-image: url("5979bcb140a74f0001027189_art_what.makes_space.rocket.svg");
   background-position: 50% 45%;
   background-size: 150px;
   background-repeat: no-repeat;
@@ -3365,7 +3363,7 @@ ul {
   -webkit-flex: 0 0 33.33%;
   -ms-flex: 0 0 33.33%;
   flex: 0 0 33.33%;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979bc998ce136000121cb9d_art_what.makes_fuel.rocket.svg");
+  background-image: url("5979bc998ce136000121cb9d_art_what.makes_fuel.rocket.svg");
   background-position: 50% 0px;
   background-size: 60px;
   background-repeat: no-repeat;
@@ -3376,7 +3374,7 @@ ul {
   -webkit-flex: 0 0 22%;
   -ms-flex: 0 0 22%;
   flex: 0 0 22%;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979bcabb7a6900001b8aa14_art_what.makes_rocket.1.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979bcabb7a6900001b8aa14_art_what.makes_rocket.1.svg");
+  background-image: url("5979bcabb7a6900001b8aa14_art_what.makes_rocket.1.svg"), url("5979bcabb7a6900001b8aa14_art_what.makes_rocket.1.svg");
   background-position: 75% 0%, 25% 35px;
   background-size: 45px, 45px;
   background-repeat: no-repeat, no-repeat;
@@ -3388,7 +3386,7 @@ ul {
   -webkit-flex: 0 0 50%;
   -ms-flex: 0 0 50%;
   flex: 0 0 50%;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979bcb140a74f0001027189_art_what.makes_space.rocket.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979bcabb7a6900001b8aa14_art_what.makes_rocket.1.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979bcabb7a6900001b8aa14_art_what.makes_rocket.1.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979bc998ce136000121cb9d_art_what.makes_fuel.rocket.svg");
+  background-image: url("5979bcb140a74f0001027189_art_what.makes_space.rocket.svg"), url("5979bcabb7a6900001b8aa14_art_what.makes_rocket.1.svg"), url("5979bcabb7a6900001b8aa14_art_what.makes_rocket.1.svg"), url("5979bc998ce136000121cb9d_art_what.makes_fuel.rocket.svg");
   background-position: 50% 50%, 37% 50px, 63% 50px, 50% 0px;
   background-size: 150px, 45px, 45px, 60px;
   background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
@@ -3418,7 +3416,7 @@ ul {
   -webkit-flex: 0 0 33.33%;
   -ms-flex: 0 0 33.33%;
   flex: 0 0 33.33%;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979cc79d907720001a08af4_art_connection_01.svg");
+  background-image: url("5979cc79d907720001a08af4_art_connection_01.svg");
   background-position: 0px 0px;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -3459,7 +3457,7 @@ ul {
   -webkit-flex: 0 0 39%;
   -ms-flex: 0 0 39%;
   flex: 0 0 39%;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979cc7dd907720001a08af6_art_connection_02.svg");
+  background-image: url("5979cc7dd907720001a08af6_art_connection_02.svg");
   background-position: 0px 0px;
   background-size: 94%;
   background-repeat: no-repeat;
@@ -3633,7 +3631,7 @@ ul {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/59807a63ea4fa60001e1b497_bg_white.planet_bottom.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/597f09f3d74b480001df80a8_bg_contact.sky.light.trails.svg");
+  background-image: url("59807a63ea4fa60001e1b497_bg_white.planet_bottom.svg"), url("597f09f3d74b480001df80a8_bg_contact.sky.light.trails.svg");
   background-position: 50% 100%, 50% 100%;
   background-size: auto, auto;
   background-repeat: no-repeat, no-repeat;
@@ -4002,7 +4000,7 @@ ul {
   top: 0px;
   right: 0px;
   bottom: -100px;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/597202d55b29c06cb9487021_intro_dark.sky.stars_white.svg");
+  background-image: url("597202d55b29c06cb9487021_intro_dark.sky.stars_white.svg");
   background-position: 50% 0px;
   background-repeat: repeat-y;
   -webkit-transform: translate3d(-20%, -13.5%, -40px) scale(1.4);
@@ -4019,7 +4017,7 @@ ul {
   bottom: 0px;
   z-index: 1;
   display: block;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/597202d55b29c06cb9487021_intro_dark.sky.stars_white.svg");
+  background-image: url("597202d55b29c06cb9487021_intro_dark.sky.stars_white.svg");
   -webkit-transform: translate3d(-20%, -13.5%, -40px) scale(1.4);
   transform: translate3d(-20%, -13.5%, -40px) scale(1.4);
   -webkit-transform-style: preserve-3d;
@@ -4034,7 +4032,7 @@ ul {
   bottom: 0px;
   z-index: 2;
   display: block;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/59807c46e5e6220001ae4666_bg_white.contact.cover.svg");
+  background-image: url("59807c46e5e6220001ae4666_bg_white.contact.cover.svg");
   background-position: 50% 0px;
   background-repeat: no-repeat;
 }
@@ -4305,7 +4303,7 @@ ul {
 
 .faq {
   position: relative;
-  background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5980693ce3f3aa00019873ab_art_color.stars.wave.mobile.svg");
+  background-image: url("5980693ce3f3aa00019873ab_art_color.stars.wave.mobile.svg");
   background-position: 50% 0px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -4545,7 +4543,7 @@ html.w-mod-js *[data-ix="show-tooltip-on-hover"] {
   }
   .portfolio__slider-slide-background {
     z-index: 5;
-    background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5968c4306221834fac57d1d4_art_overlay.shape_dynamic.png");
+    background-image: url("5968c4306221834fac57d1d4_art_overlay.shape_dynamic.png");
   }
   .devices__columns {
     display: block;
@@ -4856,7 +4854,7 @@ html.w-mod-js *[data-ix="show-tooltip-on-hover"] {
     padding-top: 400px;
     padding-right: 20px;
     padding-left: 20px;
-    background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/59807a63ea4fa60001e1b497_bg_white.planet_bottom.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/59807c46e5e6220001ae4666_bg_white.contact.cover.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5971dcd3c27c32637f911217_intro_dark.sky.stars_white.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/597f09f3d74b480001df80a8_bg_contact.sky.light.trails.svg");
+    background-image: url("59807a63ea4fa60001e1b497_bg_white.planet_bottom.svg"), url("59807c46e5e6220001ae4666_bg_white.contact.cover.svg"), url("5971dcd3c27c32637f911217_intro_dark.sky.stars_white.svg"), url("597f09f3d74b480001df80a8_bg_contact.sky.light.trails.svg");
     background-position: 50% 100%, 50% 0px, 50% 0px, 50% 100%;
     background-size: auto, 2500px, auto, auto;
     background-repeat: no-repeat, no-repeat, repeat-y, no-repeat;
@@ -4981,7 +4979,7 @@ html.w-mod-js *[data-ix="show-tooltip-on-hover"] {
     transform: none;
   }
   .form__background-stars {
-    background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/597202d55b29c06cb9487021_intro_dark.sky.stars_white.svg");
+    background-image: url("597202d55b29c06cb9487021_intro_dark.sky.stars_white.svg");
   }
   .right-set__list-tooltip {
     left: 50%;
@@ -5243,7 +5241,7 @@ html.w-mod-js *[data-ix="show-tooltip-on-hover"] {
     min-height: 1750px;
     padding-bottom: 200px;
     padding-left: 18px;
-    background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979ea538ce136000122065f_bg_30days.mobile.long.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5980693ce3f3aa00019873ab_art_color.stars.wave.mobile.svg");
+    background-image: url("5979ea538ce136000122065f_bg_30days.mobile.long.svg"), url("5980693ce3f3aa00019873ab_art_color.stars.wave.mobile.svg");
     background-position: 0px 0px, -70px 0px;
     background-size: 214px, 430px;
     background-repeat: no-repeat, no-repeat;
@@ -5302,7 +5300,7 @@ html.w-mod-js *[data-ix="show-tooltip-on-hover"] {
     -webkit-flex-basis: 66.67%;
     -ms-flex-preferred-size: 66.67%;
     flex-basis: 66.67%;
-    background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979cc7dd907720001a08af6_art_connection_02.svg");
+    background-image: url("5979cc7dd907720001a08af6_art_connection_02.svg");
     background-size: contain;
   }
   .amazing__step-satellite-2 {
@@ -5332,7 +5330,7 @@ html.w-mod-js *[data-ix="show-tooltip-on-hover"] {
     -webkit-flex-basis: 67%;
     -ms-flex-preferred-size: 67%;
     flex-basis: 67%;
-    background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979cc79d907720001a08af4_art_connection_01.svg");
+    background-image: url("5979cc79d907720001a08af4_art_connection_01.svg");
     background-position: 0px 0px;
     background-size: contain;
     background-repeat: no-repeat;
@@ -5452,7 +5450,7 @@ html.w-mod-js *[data-ix="show-tooltip-on-hover"] {
     flex-basis: 100%;
   }
   .hero__background-stars {
-    background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/597202d55b29c06cb9487021_intro_dark.sky.stars_white.svg");
+    background-image: url("597202d55b29c06cb9487021_intro_dark.sky.stars_white.svg");
     background-position: 50% 0px;
     background-repeat: repeat-y;
   }
@@ -5572,7 +5570,7 @@ html.w-mod-js *[data-ix="show-tooltip-on-hover"] {
     line-height: 1.43;
   }
   .faq {
-    background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5980693ce3f3aa00019873ab_art_color.stars.wave.mobile.svg");
+    background-image: url("5980693ce3f3aa00019873ab_art_color.stars.wave.mobile.svg");
     background-position: 50% 0px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -5732,7 +5730,7 @@ html.w-mod-js *[data-ix="show-tooltip-on-hover"] {
   .amazing__container {
     height: 1050px;
     min-height: 1250px;
-    background-image: url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5979ea538ce136000122065f_bg_30days.mobile.long.svg"), url("http://uploads.webflow.com/596617df8d9a5a12439560d8/5980693ce3f3aa00019873ab_art_color.stars.wave.mobile.svg");
+    background-image: url("5979ea538ce136000122065f_bg_30days.mobile.long.svg"), url("5980693ce3f3aa00019873ab_art_color.stars.wave.mobile.svg");
     background-position: 0px 0px, -60px 0px;
     background-size: 150px, 300px;
     background-repeat: no-repeat, no-repeat;

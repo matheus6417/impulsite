@@ -1,1 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="421" height="386" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path id="a" d="M87.764 5.993L99.836 23.84H75.692z"/><path id="b" d="M392.173 288.173h10.498v10.498h-10.498z"/><path id="c" d="M382.124 122.124h15.746v15.747h-15.746z"/><path id="d" d="M2.083 340.083h10.498v10.498H2.083z"/><path id="e" d="M206.883 372.882l12.072 17.847h-24.144z"/><ellipse id="f" cx="191.843" cy="205.843" rx="7.348" ry="7.349"/></defs><g fill="none" fill-rule="evenodd" opacity=".3"><g transform="scale(1 -1) rotate(88 82.294 -58.12)"><use fill="#1DBCBC" xlink:href="#a"/><path stroke="#1DBCBC" stroke-width="2" d="M87.764 7.778L97.953 22.84H77.576L87.764 7.778z"/></g><g transform="rotate(-74 310.796 211.256)"><use fill="#1DBCBC" xlink:href="#b"/><path stroke="#1DBCBC" stroke-width="2" d="M393.173 289.173h8.498v8.498h-8.498z"/></g><g transform="rotate(8 1219.47 -356.39)"><use fill="#1DBCBC" xlink:href="#c"/><path stroke="#1DBCBC" stroke-width="2" d="M383.124 123.124h13.746v13.747h-13.746z"/></g><g transform="rotate(-82 70.177 312.85)"><use fill="#1DBCBC" xlink:href="#d"/><path stroke="#1DBCBC" stroke-width="2" d="M3.083 341.083h8.498v8.498H3.083z"/></g><g transform="scale(1 -1) rotate(72 728.583 86.917)"><use fill="#1DBCBC" xlink:href="#e"/><path stroke="#1DBCBC" stroke-width="2" d="M206.883 374.666l10.188 15.063h-20.377l10.189-15.063z"/></g><g transform="rotate(-114 179.737 188.097)"><use fill="#1DBCBC" xlink:href="#f"/><ellipse cx="191.843" cy="205.843" stroke="#1DBCBC" stroke-width="2" rx="6.348" ry="6.349"/></g><path stroke="#1DBCBC" stroke-width=".5" d="M.414 61.632l88.98 312.218m8.648 11.45l176.926-58.806M99.3 375.197l87.883-199.853m95.057 129.108L194.73 175.389M17.886 50.342l167.487 116.19M1.188 37.963l322.7-36.76m12.887 17.15l73.98 126.935m-115.67 175.394L417.09 156.794m-9.53-2.824l-210.348 13.304M321.814 16.08L192.628 162.916" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="421" height="386" viewBox="0 0 421 386" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <polygon id="a" points="87.764 5.993 99.836 23.84 75.692 23.84"/>
+    <rect id="b" width="10.498" height="10.498" x="392.173" y="288.173"/>
+    <rect id="c" width="15.746" height="15.747" x="382.124" y="122.124"/>
+    <rect id="d" width="10.498" height="10.498" x="2.083" y="340.083"/>
+    <polygon id="e" points="206.883 372.882 218.955 390.729 194.811 390.729"/>
+    <ellipse id="f" cx="191.843" cy="205.843" rx="7.348" ry="7.349"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="rotate(-28 119.193 189.472)" opacity=".3">
+    <g transform="scale(1 -1) rotate(60 113.6 0)">
+      <use fill="#1DBCBC" xlink:href="#a"/>
+      <path stroke="#1DBCBC" stroke-width="2" d="M87.7640566,7.77787713 L97.9525169,22.8400454 L77.5755963,22.8400454 L87.7640566,7.77787713 Z"/>
+    </g>
+    <g transform="rotate(-46 397.422 293.422)">
+      <use fill="#1DBCBC" xlink:href="#b"/>
+      <rect width="8.498" height="8.498" x="393.173" y="289.173" stroke="#1DBCBC" stroke-width="2"/>
+    </g>
+    <g transform="rotate(36 389.998 129.998)">
+      <use fill="#1DBCBC" xlink:href="#c"/>
+      <rect width="13.746" height="13.747" x="383.124" y="123.124" stroke="#1DBCBC" stroke-width="2"/>
+    </g>
+    <g transform="rotate(-54 7.332 345.332)">
+      <use fill="#1DBCBC" xlink:href="#d"/>
+      <rect width="8.498" height="8.498" x="3.083" y="341.083" stroke="#1DBCBC" stroke-width="2"/>
+    </g>
+    <g transform="scale(1 -1) rotate(44 1151.883 0)">
+      <use fill="#1DBCBC" xlink:href="#e"/>
+      <path stroke="#1DBCBC" stroke-width="2" d="M206.882774,374.66638 L217.071235,389.728548 L196.694314,389.728548 L206.882774,374.66638 Z"/>
+    </g>
+    <g transform="rotate(-86 191.843 205.843)">
+      <use fill="#1DBCBC" xlink:href="#f"/>
+      <ellipse cx="191.843" cy="205.843" stroke="#1DBCBC" stroke-width="2" rx="6.348" ry="6.349"/>
+    </g>
+    <path stroke="#1DBCBC" stroke-width=".5" d="M74.335083 20.8323975L6.32214355 338.279053M8.58288574 352.44751L192.40625 383.587402M14.4351807 344.117432L185.856934 208.916504M209.174316 367.538574L192.5 212.5M95.0617676 19.0672607L188.396484 200.287109M86.1293945.297729492L388.315063 119.338135M391.642334 140.53064L397.370117 287.339844M212.897705 387.899658L397.561035 300.473022M390.472778 293.505737L198.5 206.5M379.5 131.5L196.5 200.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

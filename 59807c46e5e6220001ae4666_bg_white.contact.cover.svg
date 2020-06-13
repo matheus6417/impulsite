@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="5000" height="500"><g fill="none" fill-rule="evenodd"><path fill="#FFF" d="M0 0h5000L0 439.726z"/><path fill="#9E7DD8" opacity=".65" d="M0 439.726L5000 0v107.534L0 500z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="5000" height="500" viewBox="0 0 5000 500">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#FFFFFF" points="0 0 5000 0 0 439.726"/>
+    <polygon fill="#9E7DD8" points="0 439.726 5000 0 5000 107.534 0 500" opacity=".65"/>
+  </g>
+</svg>
