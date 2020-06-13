@@ -2324,6 +2324,7 @@ ul {
   width: auto;
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: 30px;
   padding: 22px 30px;
   -webkit-box-flex: 0;
   -webkit-flex: 0 0 auto;
@@ -2360,7 +2361,6 @@ ul {
 }
 
 .boosted__btn-container {
-  margin-bottom: 210px;
   text-align: center;
 }
 
